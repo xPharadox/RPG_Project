@@ -1,0 +1,11 @@
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\xphar\source\repos\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\xphar\source\repos\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\xphar\source\repos\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\xphar\source\repos\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+C:\Users\xphar\source\repos\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\xphar\source\repos\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
