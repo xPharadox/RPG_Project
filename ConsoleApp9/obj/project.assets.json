@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xphar\\source\\repos\\ConsoleApp9\\ConsoleApp9.csproj",
-      "projectName": "ConsoleApp9",
-      "projectPath": "C:\\Users\\xphar\\source\\repos\\ConsoleApp9\\ConsoleApp9.csproj",
+      "projectUniqueName": "C:\\Users\\xphar\\source\\repos\\ConsoleApp9\\RPG.csproj",
+      "projectName": "RPG",
+      "projectPath": "C:\\Users\\xphar\\source\\repos\\ConsoleApp9\\RPG.csproj",
       "packagesPath": "C:\\Users\\xphar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\xphar\\source\\repos\\ConsoleApp9\\obj\\",
       "projectStyle": "PackageReference",
